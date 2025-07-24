@@ -1,0 +1,15 @@
+/home/jm/developnet/algoritmos_de_ordenamiento/bin/Debug/net8.0/algoritmos_de_ordenamiento
+/home/jm/developnet/algoritmos_de_ordenamiento/bin/Debug/net8.0/algoritmos_de_ordenamiento.deps.json
+/home/jm/developnet/algoritmos_de_ordenamiento/bin/Debug/net8.0/algoritmos_de_ordenamiento.runtimeconfig.json
+/home/jm/developnet/algoritmos_de_ordenamiento/bin/Debug/net8.0/algoritmos_de_ordenamiento.dll
+/home/jm/developnet/algoritmos_de_ordenamiento/bin/Debug/net8.0/algoritmos_de_ordenamiento.pdb
+/home/jm/developnet/algoritmos_de_ordenamiento/obj/Debug/net8.0/algoritmos_de_ordenamiento.GeneratedMSBuildEditorConfig.editorconfig
+/home/jm/developnet/algoritmos_de_ordenamiento/obj/Debug/net8.0/algoritmos_de_ordenamiento.AssemblyInfoInputs.cache
+/home/jm/developnet/algoritmos_de_ordenamiento/obj/Debug/net8.0/algoritmos_de_ordenamiento.AssemblyInfo.cs
+/home/jm/developnet/algoritmos_de_ordenamiento/obj/Debug/net8.0/algoritmos_de_ordenamiento.csproj.CoreCompileInputs.cache
+/home/jm/developnet/algoritmos_de_ordenamiento/obj/Debug/net8.0/algoritmos_de_ordenamiento.sourcelink.json
+/home/jm/developnet/algoritmos_de_ordenamiento/obj/Debug/net8.0/algoritmos_de_ordenamiento.dll
+/home/jm/developnet/algoritmos_de_ordenamiento/obj/Debug/net8.0/refint/algoritmos_de_ordenamiento.dll
+/home/jm/developnet/algoritmos_de_ordenamiento/obj/Debug/net8.0/algoritmos_de_ordenamiento.pdb
+/home/jm/developnet/algoritmos_de_ordenamiento/obj/Debug/net8.0/algoritmos_de_ordenamiento.genruntimeconfig.cache
+/home/jm/developnet/algoritmos_de_ordenamiento/obj/Debug/net8.0/ref/algoritmos_de_ordenamiento.dll
